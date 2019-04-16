@@ -123,12 +123,6 @@ MD5加密：chenfeng2019.
  18702031175
 
 
-阿里云【1】 console.aliyun.com
-账号：chenfeng19731
-密码：9iu%^&*kJHG98jjFJEaR
-阿里云【2】 console.aliyun.com
-账号：chenfeng20140428
-密码：qoqvid-bunja1-gUrcuh
-
-
-
+阿里云（B2C）服务器
+登陆密码:ILoveyou123_@
+远程连接密码：175139
